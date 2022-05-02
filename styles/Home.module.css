@@ -48,14 +48,14 @@ margin-left: 400px;
   text-align: left;
   text-decoration: none;
   border-radius: 10px;
-  width: 580px;
+  width: 500px;
   font-size: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border: 1px solid #ad4adb05;
   background-image: linear-gradient(to right,  rgb(209, 136, 224),rgba(66, 43, 194, 0.842));
 }
 .hoyr{
-  margin-left: 100px;
+  margin-left: 60px;
   width: 200px;
 }
 .cardd{
