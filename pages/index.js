@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../styles/Home.module.css";
 import pro from "../public/pro.jpeg";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -27,11 +27,11 @@ export default function Home() {
             height={150}
           />
 
-          <a className={styles.cardd}>
+          <a className={styles.carddd}>
             <h2>Personal profile </h2>
             <p>
-              i am a life-long learner who loves the quote "Live like you are
-              going to die today, Learn like you will never die".
+              i am a life-long learner who loves the quote &quot;Live like you
+              are going to die today, Learn like you will never die&quot;.
             </p>
           </a>
         </div>
@@ -58,32 +58,32 @@ export default function Home() {
             </a>
             <a className={styles.hoyr}>
               <h2>Skills</h2>
-              <div class="box">
+              <div className="box">
                 <h4> Leadership</h4>
                 <div className={styles.percent}>
                   <div className={styles.huvi}></div>
                 </div>
               </div>
-              <div class="box">
+              <div className="box">
                 <h4> Creativity</h4>
                 <div className={styles.percent}>
                   <div className={styles.huvi2}></div>
                 </div>
               </div>
-              <div class="box">
+              <div className="box">
                 <h4> Teamwork</h4>
                 <div className={styles.percent}>
                   <div className={styles.huvi}></div>
                 </div>
               </div>
               <h2>Language</h2>
-              <div class="box">
+              <div className="box">
                 <h4> Javascript</h4>
                 <div className={styles.percent}>
                   <div className={styles.huvi}></div>
                 </div>
               </div>
-              <div class="box">
+              <div className="box">
                 <h4> Typescript</h4>
                 <div className={styles.percent}>
                   <div className={styles.huvi1}></div>
@@ -95,7 +95,7 @@ export default function Home() {
                   <div className={styles.huvi2}></div>
                 </div>
               </div>
-              <div class="box">
+              <div className="box">
                 <h4> Angular</h4>
                 <div className={styles.percent}>
                   <div className={styles.huvi3}></div>
