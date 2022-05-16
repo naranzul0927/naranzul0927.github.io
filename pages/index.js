@@ -22,7 +22,7 @@ export default function Home() {
           <Image
             className={styles.image}
             alt="Profile image"
-            src={pro}
+            src={nar}
             width={150}
             height={150}
           />
