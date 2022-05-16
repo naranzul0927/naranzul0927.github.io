@@ -89,7 +89,7 @@ export default function Home() {
                   <div className={styles.huvi1}></div>
                 </div>
               </div>
-              <div class="box">
+              <div className="box">
                 <h4> React</h4>
                 <div className={styles.percent}>
                   <div className={styles.huvi2}></div>
