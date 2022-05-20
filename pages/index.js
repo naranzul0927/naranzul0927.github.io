@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
-import pro from "../public/pro.jpeg";
 import styles from "../styles/Home.module.css";
+import nar from "../public/nar.png";
 
 export default function Home() {
   return (
